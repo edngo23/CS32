@@ -1,8 +1,6 @@
-This is how to build a soundless version of Kontagion, assuming you've
-already installed freeGLUT:
+Using Objected-Oriented Programming, with specific focus on inheritance and polymorphism to avoid duplicate code, I created the video game below.
 
-1. Download the soundless Linux skeleton for Kontagion and unzip it.
-2. To build the program, change into the Kontagion directory and type
-	make
-3. To run the program, type
-	./Kontagion
+
+GIF created using LICEcap
+
+*Skeleton code provided by the CS 32 Professors, Carey Nachenberg and David Smallberg.*
